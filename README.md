@@ -27,7 +27,7 @@ Fun fact: I love music.
 <a href="https://github.com/[Your-Username]" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub"/>
 </a>
-<a href="https://www.google.com/search?q=https://linkedin.com/in/[muhammad-ahmad-ansar-butt]" target="_blank">
+<a href="https://www.google.com/search?q=https://linkedin.com/in/[muhammad-ahmad-ansar-butt" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
 </a>
 <a href="https://www.google.com/search?q=https://tryhackme.com/p/[AhmadAnsar07]" target="_blank">
