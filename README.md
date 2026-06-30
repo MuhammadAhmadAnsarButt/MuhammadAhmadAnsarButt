@@ -10,7 +10,7 @@ CS major at Lahore University of Management Sciences (LUMS), with a strong focus
 - 💬 Ask me about cybersecurity, CTFs, or reverse engineering
 
 ## Skills & Tools
-**Concepts:** Vulnerability Assessment · Network Traffic Analysis · Enumeration · Web Application Security · Linux Fundamentals
+**Skills:** Vulnerability Assessment · Network Traffic Analysis · Enumeration · Web Application Security · Linux Fundamentals
 **Tools:** Nmap · Wireshark · Burp Suite
 **Programming:** C++ · Python · MATLAB · Y86-64 Assembly
 
