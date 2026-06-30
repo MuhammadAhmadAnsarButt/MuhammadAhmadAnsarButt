@@ -1,63 +1,27 @@
-Hello! My name is Muhammad Ahmad Ansar Butt👋
+Hi, I'm Muhammad Ahmad Ansar Butt 👋
 
-<p align="left">
-I'm a student at Lahore University of Management Sciences (LUMS) and currently enrolled as a CS Major.
-
+CS major at Lahore University of Management Sciences (LUMS), with a strong focus on cybersecurity and offensive security.
 
 
+🔒 Currently working through penetration testing and SOC fundamentals
+🏆 3rd place – CodeRush 26 (ITU) CTF | 5th place – Techverse 2.0 (UMT) CTF
+📜 TryHackMe: Pre Security (SEC0) – 590/600 | Cyber Security 101 (SEC1) Certified
+🛡️ Completed a 10-week Security Assessment & SOC Training program (VaporVM) covering SIEM, incident response, and log analysis
+👯 Open to collaborating on security projects or CTF teams
+💬 Ask me about cybersecurity, CTFs, or reverse engineering
 
 
+Skills & Tools
 
+Concepts: Vulnerability Assessment · Network Traffic Analysis · Enumeration · Web Application Security · Linux Fundamentals
+Tools: Nmap · Wireshark · Burp Suite (edit this list to match what you've actually used hands-on)
+Programming: C++ · Python · MATLAB · Y86-64 Assembly
 
-I have a huge interest in cybersecurity 🔒, offensive security, as well as coding! 💻
+📫 Reach Me
 
+muhammadahmadansarbutt@gmail.com · TryHackMe · LinkedIn
 
-
-
-
-
-
-🌱 I’m currently learning penetration testing, spending a lot of my time on platforms like TryHackMe.
-
-
-
-
-
-👯 I’m looking to collaborate on security-related projects or CTF (Capture The Flag) teams.
-
-
-
-
-
-💬 Ask me about anything, but especially topics related to cybersecurity!
-</p>
-
-🚀 Some Things I'm Working On
-
-Teaching Assistant for the ENGG 100 course at LUMS.
-
-Working through cybersecurity learning paths on TryHackMe.
-
-🛠️ My Skills & Tools
-
-Skills:
-Cybersecurity Fundamentals | Linux Fundamentals | Network Security | Web Application Security | SQL Injection
-
-Tools:
-Nmap | Wireshark | Metasploit | Burp Suite | John The Ripper
-
-📫 How to Reach Me
-
-How to reach me: muhammadahmadansarbutt@gmail.com
-
-Pronouns: He/Him
-
-Fun fact: I love music.
-<p align="left">
-  <a href="https://github.com/MuhammadAhmadAnsarButt" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-
+Pronouns: He/Him · Fun fact: I love music 🎵
   <a href="https://linkedin.com/in/muhammad-ahmad-ansar-butt" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
